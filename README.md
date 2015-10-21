@@ -3,7 +3,9 @@ HeightMap created in OpenGL and contains object transformations.
 
 Some starter code taken from http://www.learnopengl.com/
 
-Commands  Camera Movements
+Commands  
+
+          Camera Movements
           W- Move Camera Forward
           A- Move Camera Left
           S- Move Camera Back
