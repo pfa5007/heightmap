@@ -1,3 +1,5 @@
+// Author: Paul F. Ascenzi Jr.
+
 #include <iostream>
 #include <cmath>
 #include <vector>
