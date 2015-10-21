@@ -1,9 +1,9 @@
-# heightmap
+# HeightMap and Object Transformations
 HeightMap created in OpenGL and contains object transformations.
-
 Some starter code taken from http://www.learnopengl.com/
+I will be updating this project when I have time so that it is formatted nicer and is more clear for everyone!
 
-Commands  
+#Commands  
 
           Camera Movements
           W- Move Camera Forward
