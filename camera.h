@@ -83,9 +83,9 @@ public:
             this->Position -= this->Right * velocity;
         if (direction == RIGHT)
             this->Position += this->Right * velocity;
-		if (direction == UP)
+	if (direction == UP)
             this->Position += this->Up * velocity;
-		if (direction == DOWN)
+	if (direction == DOWN)
             this->Position -= this->Up * velocity;
     }
 
